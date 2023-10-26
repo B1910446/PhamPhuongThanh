@@ -24,7 +24,7 @@ app.use(router);
 
 
 app.get('/', function(req, res){
-    res.json({ message: 'Welcome to restaurant api' });
+    res.json({ message: 'Welcome to flower shop api' });
 });
 
 // PORT
